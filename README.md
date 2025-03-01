@@ -34,7 +34,7 @@ RecruitFlow is a sophisticated platform designed to revolutionize your recruitme
 
 ## Demo
 
-![RecruitFlow Demo](https://your-demo-gif-url-here.com/demo.gif)
+Check out the LinkedIn demo post [here](https://www.linkedin.com/posts/muhammad-safi-7210b0207_introducing-recruiterflow-the-antidote-to-activity-7301567787318087680-HSaE).
 
 ## Installation
 
