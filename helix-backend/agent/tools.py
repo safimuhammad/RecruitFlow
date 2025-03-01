@@ -88,7 +88,7 @@ def create_gemini_chat(profile_dict=None, sequences=None, api_key=None):
     template = string.Template(base_prompt)
     system_prompt = template.substitute(profile_dict)
     if api_key is None:
-        api_key = "AIzaSyAt-asBJuwpVwd6636ZqVJUTcF_pTtegFk"
+        api_key = ""
         if api_key is None:
             raise ValueError(
                 "API key must be provided either as an argument or as GOOGLE_API_KEY environment variable"
